@@ -1913,3 +1913,7 @@ ul.actions {
   cursor: pointer;
   color: red/*rgb(26, 26, 26)*/;
 }
+
+.feature-list h3:hover::before{
+  color:green;
+}
